@@ -1,0 +1,1 @@
+"C:\Users\joshu\source\repos\Bin2Hex\Bin2Hex\bin\Debug\netcoreapp3.1\bin2hex.exe" "Vortex.apu.bin" > "Vortex.apu.bin.txt"

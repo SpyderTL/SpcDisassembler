@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpcDisassembler": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\joshu\\source\\repos\\VortexReader\\VortexReader\\bin\\Debug\\net5.0\\Apu\\Apu.dat\" 02b0"
+    }
+  }
+}

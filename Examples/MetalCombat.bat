@@ -1,0 +1,1 @@
+"..\bin\debug\net5.0\SpcDisassembler.exe" MetalCombat.APU.bin 0300 > MetalCombat.APU.txt
